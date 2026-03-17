@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Amith Praveen</h1>
 <h3 align="center">An aspiring AI developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amith-exe07&label=Profile%20views&color=0e75b6&style=flat" alt="amith-exe07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amith-exe07" alt="amith-exe07" /></a> </p>
 
